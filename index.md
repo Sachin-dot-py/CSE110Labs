@@ -41,10 +41,10 @@ This code was taken from [W3Schools](https://www.w3schools.com/sql/sql_join.asp)
 I'm also a pretty busy person, with my classes and part-time on campus jobs. 
 So, for you to get to know my daily routine, here's my todo list for the next few days:
 
-- [] CSE 110 Lab 1
+- [ ] CSE 110 Lab 1
 - [x] CSE 110 Review Quiz 1
 - [x] ECON 3 Homework
-- [] CSE 120 Homework
-- [] CSE 151A Homework
+- [ ] CSE 120 Homework
+- [ ] CSE 151A Homework
 
 Alright, I think you got to know me as a person, including my favourite sports, the things I do regularly, and my humour and also as a programmer, with my favourite programming languages and my history of learning programming.
